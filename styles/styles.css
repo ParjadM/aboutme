@@ -1,18 +1,25 @@
 body {
-    background-color: #FFF2F2;
-    font-family: Arial, sans-serif;
+  background-color: #fff2f2;
+  font-family: Arial, sans-serif;
 }
 h1 {
-    color: #2D336B;
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+  color: #2d336b;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
 }
 
 p {
-    color: #7886C7;
-    font-family: 'Courier New', Courier, monospace;
+  color: #7886c7;
+  font-family: "Courier New", Courier, monospace;
 }
 
-a{
-    color: #A9B5DF;
+a {
+  color: #a9b5df;
+}
+
+div {
+  text-align: center;
+  display: inline-block;
+  border: 2px solid #2d336b;
+  background-color: #7886c7;
 }
