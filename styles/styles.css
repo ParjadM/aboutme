@@ -22,4 +22,5 @@ div {
   display: inline-block;
   border: 2px solid #2d336b;
   background-color: #7886c7;
+  box-shadow: 2px 2px #2d336b;
 }
